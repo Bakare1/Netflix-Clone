@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+.App{
+  background-color: #111;
+}
+.footer{
+  width: fit-content;
+  margin-left: 550px;
+  background-color: #111;
+  color: #fff;
+}
